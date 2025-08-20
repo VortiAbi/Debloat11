@@ -15,7 +15,7 @@ Debloat11 is a lightweight and user-friendly Windows tool designed to help you r
 ---
 ## Screenshot
 
-![Screenshot von Debloat11](/workspaces/Debloat11/image.png)
+![Screenshot von Debloat11](/blob/main/image.png)
 
 ---
 
